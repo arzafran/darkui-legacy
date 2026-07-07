@@ -1,6 +1,9 @@
-MinUI is an extensible launcher
+darkUI is an extensible launcher
 
-Source: https://github.com/shauninman/union-minui
+A Darkroom-themed fork of Shaun Inman's MinUI.
+
+Source: https://github.com/darkroomengineering/darkui
+Upstream: https://github.com/shauninman/MinUI-Legacy-RG35XX
 
 ----------------------------------------
 Following Instructions 101
